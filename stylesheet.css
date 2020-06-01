@@ -1,0 +1,133 @@
+
+body {
+	font-family: 'Bangers';
+	overflow-x: hidden;
+	background-color:#fafafa;
+}
+
+
+.textedit { 	
+	margin-top:250px; 
+	text-align:center; 
+}
+
+.signup {
+	margin-bottom:280px;
+	margin-left:570px;
+}
+
+#flashbackground {
+  	background: url(theflash.jpg);
+  	background-repeat: no-repeat;
+  	background-size: 100% 150%;
+  	overflow-x: hidden;
+}
+
+
+
+.footer {	
+	background-color:#686868;
+	text-align:center;
+	margin-top:40px;
+	padding-top:50px;
+	padding-bottom:50px;
+	border-top:dashed;
+}
+
+.text {
+	padding-top:20px;
+	padding-left:30px;
+	padding-bottom:20px;
+
+}
+
+
+.banner {
+	margin-left:110px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+
+.logoedit {
+	height:80px;
+	width:80px;
+}
+
+.sponsorus {
+	background-color:white;
+	margin-top:40px;
+}
+
+.navbar-dark {
+	background-color:black
+}
+
+
+.submitbtn {
+	margin-left:100px;
+}
+
+.cardedit {
+	margin:40px;
+}
+
+.logoo {
+	margin:10px;
+}
+
+
+.navbaredit {
+	margin-top:20px;
+	margin-bottom: 20px
+	
+	}
+
+
+.headeredit1 {
+	text-align:center;
+	background-color:#c80000;
+}
+
+.headeredit2 {
+	text-align:center;
+	background-color:#48a4d6;
+}
+
+h4 { 
+	color:white;
+	 }
+
+.red {
+	color: #c80000;
+}
+
+.black {
+	color:black;
+}
+
+.yellow {
+	color:#ffeb00;
+}
+
+.blue {
+	color:#48a4d6;
+}
+
+a {
+	text-decoration: underline;
+}
+
+.column {
+	padding:20px;
+}
+
+.video {
+	margin-left:45px;
+	margin-bottom:30px;
+}
+
+.sel {
+	background-color:#686868;
+
+}
